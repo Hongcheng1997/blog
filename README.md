@@ -11,6 +11,7 @@
 ### Vue
 
 * [Vue 基本使用](https://github.com/Hongcheng1997/blog/issues/5)
+* [Vuex 基本使用](https://github.com/Hongcheng1997/blog/issues/5)
 
 ### Angular
 
