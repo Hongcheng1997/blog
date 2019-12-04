@@ -8,6 +8,10 @@
 * [HTML+CSS](https://github.com/Hongcheng1997/blog/issues/4)
 * [Javascript](https://github.com/Hongcheng1997/blog/issues/2)
 
+### ES6
+
+* [结构赋值与扩展运算符](https://github.com/Hongcheng1997/blog/issues/8)
+
 ### Vue
 
 * [Vue 基本使用](https://github.com/Hongcheng1997/blog/issues/5)
