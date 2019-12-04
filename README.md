@@ -12,6 +12,7 @@
 
 * [Vue 基本使用](https://github.com/Hongcheng1997/blog/issues/5)
 * [Vuex 源码学习](https://github.com/Hongcheng1997/blog/issues/6)
+* [Vue-Router 源码学习](https://github.com/Hongcheng1997/blog/issues/7)
 
 ### Angular
 
