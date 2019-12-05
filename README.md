@@ -11,6 +11,7 @@
 ### ES6
 
 * [结构赋值与扩展运算符](https://github.com/Hongcheng1997/blog/issues/8)
+* [Promise](https://github.com/Hongcheng1997/blog/issues/9)
 
 ### Vue
 
