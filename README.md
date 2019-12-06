@@ -7,11 +7,13 @@
 
 * [HTML+CSS](https://github.com/Hongcheng1997/blog/issues/4)
 * [Javascript](https://github.com/Hongcheng1997/blog/issues/2)
+* [DOM 相关 API](https://github.com/Hongcheng1997/blog/issues/10)
+* [各种手写函数](https://github.com/Hongcheng1997/blog/issues/11)
 
 ### ES6
 
 * [结构赋值与扩展运算符](https://github.com/Hongcheng1997/blog/issues/8)
-* [Promise](https://github.com/Hongcheng1997/blog/issues/9)
+* [异步解决方案](https://github.com/Hongcheng1997/blog/issues/9)
 
 ### Vue
 
