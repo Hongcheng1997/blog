@@ -1,5 +1,7 @@
-# blog
-我的博客，工作笔记
+# blogs
+
+我的博客，工作笔记。
+正所谓好记性不如烂笔头...
 
 ## 目录
 
@@ -9,6 +11,7 @@
 * [Javascript](https://github.com/Hongcheng1997/blog/issues/2)
 * [DOM 相关 API](https://github.com/Hongcheng1997/blog/issues/10)
 * [各种手写函数](https://github.com/Hongcheng1997/blog/issues/11)
+* [this 的指向](https://github.com/Hongcheng1997/blog/issues/12)
 
 ### ES6
 
