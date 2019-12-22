@@ -28,7 +28,7 @@
 
 ### Angular
 
-* [Angular 基本使用](https://github.com/Hongcheng1997/blog/issues/1)
+* [Angular7 基本使用](https://github.com/Hongcheng1997/blog/issues/1)
 
 ### React
 
