@@ -6,10 +6,10 @@
 
 ### 前端基础
 
-* [HTML+CSS](https://github.com/Hongcheng1997/blog/issues/4)
 * [this 的指向](https://github.com/Hongcheng1997/blog/issues/12)
-* [原型与原型链](https://github.com/Hongcheng1997/blog/issues/13)
+* [原型](https://github.com/Hongcheng1997/blog/issues/13)
 * [继承](https://github.com/Hongcheng1997/blog/issues/14)
+<!-- * [HTML+CSS](https://github.com/Hongcheng1997/blog/issues/4) -->
 <!-- * [手写函数](https://github.com/Hongcheng1997/blog/issues/11) -->
 <!-- * [Javascript](https://github.com/Hongcheng1997/blog/issues/2) -->
 <!-- * [DOM 相关 API](https://github.com/Hongcheng1997/blog/issues/10) -->
