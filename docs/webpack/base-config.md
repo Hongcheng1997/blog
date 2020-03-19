@@ -54,7 +54,7 @@ webpack-starter
 +   |- index.js
 ```
 
-通过命令：npx webpack 打包代码，打包完成后项目会多一个 dist 目录就是 webpack 打包后的代码。 在 dist 目录下 创建 index.html，并将 main.js 引入。打开 html 可以看见控制台输出了 hello webpack
+通过命令：npx webpack 打包代码，打包完成后项目会多一个 dist 目录就是 webpack 打包后的代码。 在 dist 目录下创建 index.html，并将 main.js 引入。打开 html 可以看见控制台输出了 hello webpack
 
 ## plugins
 
@@ -160,7 +160,7 @@ module.exports = {
 
 ## loader
 
-什么是 loader ？实际上webpack 打包时只能识别 js 文件，对于其他类型文件比如（css、vue、ts）等是无法识别的。因此要打包其他的类型文件就需要通过 loader 来告诉 webpack 要怎么去处理这类型的文件。
+什么是 loader？实际上webpack 打包时只能识别 js 文件，对于其他类型文件比如（css、vue、ts）等是无法识别的。因此要打包其他的类型文件就需要通过 loader 来告诉 webpack 要怎么去处理这类型的文件。
 
 **style-loader、css-loader**
 
