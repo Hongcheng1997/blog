@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/blogs',
+    base: '/blogs/',
     title: 'GHC_blogs',
     themeConfig: {
         nav: [
