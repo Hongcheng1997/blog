@@ -393,28 +393,20 @@ import { NoopInterceptor } from "./interceptor/interceptor.service"
 export class AppModule { }
 ```
 
-
-
 # 父子组件传值@Input @Output @ViewChild
-
-
-
-
 
 ## @Input
 
-
-
 ```
-1\. 父组件调用子组件的时候传入数据
+1、父组件调用子组件的时候传入数据
 
 <app-header [msg]="msg"></app-header>
 
-2\. 子组件引入 Input 模块
+2、子组件引入 Input 模块
 
 import { Component, OnInit ,Input } from '@angular/core';
 
-3\. 子组件中 @Input 接收父组件传过来的数据
+3、子组件中 @Input 接收父组件传过来的数据
 
 export class HeaderComponent implements OnInit {
  @Input() msg:string
@@ -423,11 +415,7 @@ export class HeaderComponent implements OnInit {
 }
 ```
 
-
-
 ## @Output
-
-
 
 ```
 1、父组件监听子组件派发的事件
@@ -450,11 +438,7 @@ export class TitleComponent implements OnInit {
 }
 ```
 
-
-
 ## @ViewChild
-
-
 
 可用来获取 dom 节点或者组件，类似 vue 的 ref 。
 
