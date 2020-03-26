@@ -53,6 +53,15 @@ module.exports = {
                         path: '/webpack/base-config'
                     }
                 ]
+            },
+            {
+                title: '浏览器优化相关',
+                children: [
+                    {
+                        title: '节流和防抖',
+                        path: '/performance/throttle'
+                    }
+                ]
             }
         ]
     }
