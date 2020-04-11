@@ -3,7 +3,7 @@ module.exports = {
     title: 'GHC_blogs',
     themeConfig: {
         nav: [
-            { text: '基础', link: '/base/' },
+            { text: '前端基础', link: '/base/' },
             { text: '网络相关', link: '/network/' },
             { text: '框架相关', link: '/framework/' },
             { text: 'Github', link: 'https://github.com/Hongcheng1997' },
