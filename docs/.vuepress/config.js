@@ -63,11 +63,11 @@ module.exports = {
             }],
             "/network/": [
                 {
-                    title: 'http 协议',
+                    title: 'HTTP 协议',
                     children: [
                         {
-                            title: 'http 结构',
-                            path: 'http/http1'
+                            title: 'HTTP 报文结构',
+                            path: 'http/structure'
                         }
                     ]
                 }
