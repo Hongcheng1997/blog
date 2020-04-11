@@ -36,6 +36,10 @@ module.exports = {
                     {
                         title: '异步解决方案',
                         path: 'es6/async'
+                    },
+                    {
+                        title: 'Promise 简单实现',
+                        path: 'es6/promise'
                     }
                 ]
             },
