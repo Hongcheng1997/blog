@@ -3,23 +3,26 @@ module.exports = {
     title: 'GHC_blogs',
     themeConfig: {
         nav: [
+            { text: '基础', link: '/base/' },
+            { text: '网络相关', link: '/network/' },
+            { text: '框架相关', link: '/framework/' },
             { text: 'Github', link: 'https://github.com/Hongcheng1997' },
         ],
-        sidebar: [
-            {
+        sidebar: {
+            '/base/': [{
                 title: 'Javascript 基础',
                 children: [
                     {
                         title: 'this 的指向',
-                        path: '/javascript-basics/this'
+                        path: 'javascript-basics/this'
                     },
                     {
                         title: '原型链',
-                        path: '/javascript-basics/prototype'
+                        path: 'javascript-basics/prototype'
                     },
                     {
                         title: '继承',
-                        path: '/javascript-basics/inherit'
+                        path: 'javascript-basics/inherit'
                     }
                 ]
             },
@@ -28,20 +31,11 @@ module.exports = {
                 children: [
                     {
                         title: '解构赋值',
-                        path: '/es6/destructuring'
+                        path: 'es6/destructuring'
                     },
                     {
                         title: '异步解决方案',
-                        path: '/es6/async'
-                    }
-                ]
-            },
-            {
-                title: 'Angular',
-                children: [
-                    {
-                        title: 'Angular 基本使用',
-                        path: '/angular/angular'
+                        path: 'es6/async'
                     }
                 ]
             },
@@ -50,7 +44,7 @@ module.exports = {
                 children: [
                     {
                         title: '基于 webpack 配置一个基本的启动程序',
-                        path: '/webpack/base-config'
+                        path: 'webpack/base-config'
                     }
                 ]
             },
@@ -59,10 +53,33 @@ module.exports = {
                 children: [
                     {
                         title: '节流和防抖',
-                        path: '/performance/throttle'
+                        path: 'performance/throttle'
                     }
                 ]
-            }
-        ]
+            }],
+            "/network/": [
+                {
+                    title: 'http',
+                    children: [
+                        {
+                            title: 'http1.1',
+                            path: 'http'
+                        }
+                    ]
+                }
+            ],
+            "/framework/": [
+
+                {
+                    title: 'Angular',
+                    children: [
+                        {
+                            title: 'Angular 基本使用',
+                            path: 'angular/angular'
+                        }
+                    ]
+                }
+            ]
+        }
     }
 }
