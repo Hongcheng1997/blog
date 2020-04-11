@@ -63,17 +63,16 @@ module.exports = {
             }],
             "/network/": [
                 {
-                    title: 'http',
+                    title: 'http 协议',
                     children: [
                         {
-                            title: 'http1.1',
-                            path: 'http'
+                            title: 'http 结构',
+                            path: 'http/http1'
                         }
                     ]
                 }
             ],
             "/framework/": [
-
                 {
                     title: 'Angular',
                     children: [
