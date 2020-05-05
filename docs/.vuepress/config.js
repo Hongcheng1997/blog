@@ -6,6 +6,7 @@ module.exports = {
             { text: '前端基础', link: '/base/' },
             // { text: '网络相关', link: '/network/' },
             { text: '框架相关', link: '/framework/' },
+            { text: '数据结构', link: '/data-structure/' },
             { text: 'Github', link: 'https://github.com/Hongcheng1997' },
         ],
         sidebar: {
@@ -91,6 +92,26 @@ module.exports = {
                 //         }
                 //     ]
                 // }
+            ],
+            '/data-structure/': [
+                {
+                    title: '栈',
+                    children: [
+                        {
+                            title: 'js 实现栈',
+                            path: 'stack/stack'
+                        }
+                    ]
+                },
+                {
+                    title: '队列',
+                    children: [
+                        {
+                            title: 'js 实现队列',
+                            path: 'queue/queue'
+                        }
+                    ]
+                }
             ]
         }
     }
