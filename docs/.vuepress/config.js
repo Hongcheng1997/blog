@@ -109,6 +109,10 @@ module.exports = {
                         {
                             title: 'js 实现队列',
                             path: 'queue/queue'
+                        },
+                        {
+                            title: 'js 实现双端队列',
+                            path: 'queue/enque'
                         }
                     ]
                 }
