@@ -115,6 +115,15 @@ module.exports = {
                             path: 'queue/enque'
                         }
                     ]
+                },
+                {
+                    title: '链表',
+                    children: [
+                        {
+                            title: 'js 实现链表',
+                            path: 'linkedList/linkedList'
+                        }
+                    ]
                 }
             ]
         }
